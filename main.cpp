@@ -23,7 +23,7 @@ int main()
   nickname.push_back(last[0]);
   nickname.push_back('.');
 
-  cout<< "Welcome, " <<nickname<< " here is your fortune...\n"; 
+  cout<< "Welcome, " <<nickname<< ", here is your fortune...\n"; 
 
  int lucky= first.length(); 
 
@@ -47,7 +47,7 @@ int len= last.length();
   cout<< "You have already met your true love.\n";
   }
 
-  cout<< "Have a good day.\n";
+  cout<< "Have a good day!\n";
 
   return 0;
 
